@@ -231,5 +231,17 @@ pyrightconfig.json
 *.zip
 *.rar
 *.npy
+*.pt
 *.pth
 *.h5
+*.ckpt
+*.pkl
+*.bin
+*.onnx
+*.png
+*.csv
+**/.DS_Store
+.vscode/
+lab6/images/
+lab2/kaggle/submission/
+dataset/
